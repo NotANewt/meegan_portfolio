@@ -5,9 +5,10 @@ import Layout from "./components/Layout";
 function App() {
   return (
     <Router>
-      <Layout>
-        <Route path="/" element={<Home></Home>}></Route>
-      </Layout>
+      <Layout />
+      <Routes>
+        <Route path="/" element={<Home />}></Route>
+      </Routes>
     </Router>
   );
 }
