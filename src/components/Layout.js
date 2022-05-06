@@ -1,7 +1,10 @@
-function Layout() {
+import Header from "./Header";
+
+function Layout(props) {
   return (
     <>
-      <h1>The body will go here!</h1>
+      <Header></Header>
+      <main>{props.children}</main>
     </>
   );
 }

@@ -1,10 +1,7 @@
 function Header() {
   return (
     <>
-      <header>
-        logo here
-        <nav>Bio Projects Contact me</nav>
-      </header>
+      <h1>The header will be here!</h1>
     </>
   );
 }
