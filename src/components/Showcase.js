@@ -29,7 +29,7 @@ function Showcase() {
                   <li>SQL</li>
                 </ul>
                 {/* TODO: add link to project page */}
-                <a className="btn btn-secondary" href="project-techtalk.html">
+                <a className="btn btn-secondary" href="/TechTalk">
                   Project Details
                 </a>
               </div>
