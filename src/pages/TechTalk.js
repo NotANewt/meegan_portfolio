@@ -37,7 +37,7 @@ function TechTalk(props) {
                 </div>
 
                 <div className="col-md">
-                  <a href="https://github.com/NotANewt/hw14_tech_blog/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" class="btn btn-primary" tabIndex="-1" role="button">
+                  <a href="https://github.com/NotANewt/hw14_tech_blog/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
                     Download Project
                   </a>
                 </div>

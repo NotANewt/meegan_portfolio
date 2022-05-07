@@ -70,8 +70,7 @@ function Showcase() {
                   <li>CSS</li>
                   <li>RESTful</li>
                 </ul>
-                {/* TODO: add link to project page */}
-                <a className="btn btn-secondary" href="project-weather.html">
+                <a className="btn btn-secondary" href="/Weather">
                   Project Details
                 </a>
               </div>
