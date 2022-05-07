@@ -2,7 +2,7 @@ function Skills() {
   return (
     <>
       {/* Section: Skills */}
-      <div id="skills-section" className="section section-dark bg-image-yellow-1">
+      <div id={"skills-section"} className="section section-dark bg-image-yellow-1">
         <div className="container">
           <div className="row">
             <div className="col-sm">

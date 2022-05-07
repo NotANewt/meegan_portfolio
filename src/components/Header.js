@@ -1,3 +1,5 @@
+import { HashLink } from "react-router-hash-link";
+
 function Header() {
   return (
     <>
@@ -15,9 +17,9 @@ function Header() {
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/#skills-section">
+                <HashLink smooth className="nav-link" to="/#skills-section">
                   Skills
-                </a>
+                </HashLink>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/#project-showcase-section">
