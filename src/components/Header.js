@@ -10,22 +10,22 @@ function Header() {
           <div className="collapse navbar-collapse font-title" id="navbarNav">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link" href="/meegan_portfolio">
+                <a className="nav-link" href="/">
                   Home
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/meegan_portfolio/#skills-section">
+                <a className="nav-link" href="/#skills-section">
                   Skills
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/meegan_portfolio/#project-showcase-section">
+                <a className="nav-link" href="/#project-showcase-section">
                   Project Showcase
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/meegan_portfolio/#contact-me-section">
+                <a className="nav-link" href="/#contact-me-section">
                   Contact
                 </a>
               </li>
