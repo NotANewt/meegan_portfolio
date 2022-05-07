@@ -110,7 +110,7 @@ function Showcase() {
                   <li>CSS</li>
                 </ul>
                 {/* TODO: add link to project page */}
-                <a className="btn btn-secondary" href="project-doyouneedanumbrella.html">
+                <a className="btn btn-secondary" href="/Umbrella">
                   Project Details
                 </a>
               </div>
