@@ -6,6 +6,7 @@ import PetLink from "./pages/PetLink";
 import Weather from "./pages/Weather";
 import Employee from "./pages/Employee";
 import Umbrella from "./pages/Umbrella";
+import Quiz from "./pages/Quiz";
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
           <Route path="/Weather" element={<Weather />}></Route>
           <Route path="/Employee" element={<Employee />}></Route>
           <Route path="/Umbrella" element={<Umbrella />}></Route>
+          <Route path="/Quiz" element={<Quiz />}></Route>
         </Routes>
       </Layout>
     </Router>

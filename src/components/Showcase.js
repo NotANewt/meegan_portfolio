@@ -109,7 +109,6 @@ function Showcase() {
                   <li>HTML5</li>
                   <li>CSS</li>
                 </ul>
-                {/* TODO: add link to project page */}
                 <a className="btn btn-secondary" href="/Umbrella">
                   Project Details
                 </a>
@@ -130,8 +129,7 @@ function Showcase() {
                   <li>HTML5</li>
                   <li>CSS</li>
                 </ul>
-                {/* TODO: add link to project page */}
-                <a className="btn btn-secondary" href="project-codequiz.html">
+                <a className="btn btn-secondary" href="/Quiz">
                   Project Details
                 </a>
               </div>
