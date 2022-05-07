@@ -32,7 +32,7 @@ function Footer() {
             <div className="col-md-6 offset-md-1">
               <ul className="icon-list">
                 <li>
-                  <i className="fa-solid fa-mobile-screen-button"></i> 312-344-3268
+                  <i className="fa-solid fa-mobile-screen-button"></i> 630-728-2730
                 </li>
 
                 <li>

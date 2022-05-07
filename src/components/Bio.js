@@ -29,7 +29,7 @@ function Bio() {
                   </a>
                 </li>
                 <li>
-                  <strong>Phone:</strong> 312-344-3268
+                  <strong>Phone:</strong> 630-728-2730
                 </li>
                 <li>
                   <strong>Website:</strong>
