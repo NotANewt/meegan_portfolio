@@ -1,4 +1,4 @@
 function Home(props) {
-  return <>hi home</>;
+  return <>Hi Home!</>;
 }
 export default Home;

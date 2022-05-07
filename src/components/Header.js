@@ -1,7 +1,9 @@
 function Header() {
   return (
     <>
-      <h1>The header will be here!</h1>
+      <header>
+        <nav>Nav bar</nav>
+      </header>
     </>
   );
 }
