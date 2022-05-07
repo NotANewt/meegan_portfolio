@@ -1,4 +1,5 @@
 import profilePic from "../assets/img/profile-splat.png";
+import resume from "../assets/resume/Meegan_Anderson_Resume.pdf";
 
 function Bio() {
   return (
@@ -53,7 +54,7 @@ function Bio() {
               </ul>
               <div>
                 {" "}
-                <a href="Meegan_Anderson_Resume.pdf" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
+                <a href={resume} target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
                   Download Resume
                 </a>
               </div>
