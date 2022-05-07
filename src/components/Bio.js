@@ -33,7 +33,7 @@ function Bio() {
                 </li>
                 <li>
                   <strong>Website:</strong>
-                  <a href="https://notanewt.github.io/meegan_portfolio/" target="_blank" rel="noreferrer">
+                  <a href="https://meegan-react-portfolio.herokuapp.com/" target="_blank" rel="noreferrer">
                     notanewt.github.io/portfolio/
                   </a>
                 </li>
