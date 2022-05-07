@@ -89,8 +89,7 @@ function Showcase() {
                   <li>JavaScript</li>
                   <li>SQL</li>
                 </ul>
-                {/* TODO: add link to project page */}
-                <a className="btn btn-secondary" href="project-employeetracker.html">
+                <a className="btn btn-secondary" href="/Employee">
                   Project Details
                 </a>
               </div>
