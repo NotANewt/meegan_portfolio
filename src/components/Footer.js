@@ -1,4 +1,5 @@
 import resume from "../assets/resume/Meegan_Anderson_Resume.pdf";
+import { HashLink } from "react-router-hash-link";
 
 function Footer() {
   return (
@@ -66,10 +67,14 @@ function Footer() {
                   <a href="/">Home</a>
                 </li>
                 <li>
-                  <a href="./#skills-section">Skills</a>
+                  <HashLink smooth to="/#skills-section">
+                    Skills
+                  </HashLink>
                 </li>
                 <li>
-                  <a href="./#project-showcase-section">Project Showcase</a>
+                  <HashLink smooth to="/#project-showcase-section">
+                    Project Showcase
+                  </HashLink>
                 </li>
               </ul>
             </div>
@@ -77,7 +82,7 @@ function Footer() {
             <div className="col-md">
               <h4 className="font-title">Get in touch</h4>
               <ul className="git-list">
-                <li>312-344-3268</li>
+                <li>630-728-2730</li>
                 <li>
                   <a href="mailto:meegan.r.anderson@gmail.com">meegan.r.anderson@gmail.com</a>
                 </li>
