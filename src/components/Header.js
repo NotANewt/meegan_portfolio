@@ -22,14 +22,14 @@ function Header() {
                 </HashLink>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/#project-showcase-section">
+                <HashLink smooth className="nav-link" to="/#project-showcase-section">
                   Project Showcase
-                </a>
+                </HashLink>
               </li>
               <li className="nav-item">
-                <a className="nav-link" href="/#contact-me-section">
+                <HashLink smooth className="nav-link" to="/#contact-me-section">
                   Contact
-                </a>
+                </HashLink>
               </li>
             </ul>
           </div>
