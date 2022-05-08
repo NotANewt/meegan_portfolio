@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# Meegan's Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+- Purpose of this project: A portfolio of my dev work.
+- Languages used: HTML, CSS
+- Brief description: A portfolio that includes my bio, a list of skills, a showcase of my projects with individual pages for each, and ways to contact me.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [License](#license)
+- [Questions](#questions)
+- [Links](#links)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Usage
 
-### `npm test`
+When a user opens the portfolio page, they are presented with a navigation bar with links to the individual sections of the document: Home, Skills, Project Showcase, and Contact. At the top of the page is the About Me section, which has a brief biography, my phone number, my email, links to my github and linkedIn profiles, and a button to download my resume. When the user scrolls down or clicks on the "Skills" link in the nav, they will see the Skills section with a breakdown of my skills and my education history. When the user scrolls down further or clicks on the "Project Showcase" link in the nav, they are presented with cards with icons for each project. When the user hovers over the cards on a desktop or clicks on them on mobile, an card appears over the icon with the application's title, a brief description, the tools used in its development, and a "Project Details" button. If the user clicks on the "Project Details" button, they are taken to a page for that application, which includes the project's title, a screen shot, a brief description, links to the deployed application, a link to the github repository, and a button to download the project as a zip file. The navigation bar, Contact section, and footer are the same on the project details pages as on the home page. When the user clicks on any of the links in the navigation bar, they are returned to the home page to the section they clicked. Below the Project Showcase is a banner asking if the user would like to work with me, and a button to download my resume. If the user continues to scroll or clicks on the "Contact" link in the nav, they are presented with my phone number, email, and linkedIn contact information. The footer includes links back to previous sections of the portfolio, as well as my phone number, email, and linkedIn contact information.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+### Screenshot of Portfolio's Home Page When Viewed On A Desktop
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+!["Screenshot of portfolio's home page when viewed on a desktop, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./assets/img/portfolio_v3_desktop_ss.PNG)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Screenshot of Portfolio's Home Page When Viewed On Mobile
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+!["Screenshot of portfolio's home page when viewed on mobile, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./assets/img/portfolio_v3_mobile_ss.png)
 
-### `npm run eject`
+### Screenshot of Portfolio's Home Page
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+!["Screenshot of portfolio's home page, zoomed out so the entire page can be seen. The image includes navigation bar at the top and a yellow biography section, including a headshot and contact links. Below is a green skills section that lists skills and education. Below that is a yellow Project Showcase section with white cards with icons for each of the projects. Further down is a red section with a button to download Meegan's resume. Next is a yellow Contact section with contact links. At the bottom is a blue footer section with contact links."](./assets/img/portfolio_v3_desktop_large_ss.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This application is licensed under the MIT license.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Questions
 
-## Learn More
+If you have any questions:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Email me: [meegan.r.anderson@gmail.com](mailto:meegan.r.anderson@gmail.com)
+- Go to my github: [NotANewt](https://github.com/NotANewt)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Links
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Here is the repo: [NotANewt/Meegan's Portfolio](https://github.com/NotANewt/portfolio)
+- Here is the pages: [herokkuapp/pages](https://meegan-react-portfolio.herokuapp.com/)
