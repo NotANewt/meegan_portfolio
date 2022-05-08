@@ -23,26 +23,26 @@ function Bio() {
 
               <ul className="bio-links">
                 <li>
-                  <strong>GitHub:</strong>
+                  <strong>GitHub: </strong>
                   <a href="https://github.com/NotANewt" target="_blank" rel="noreferrer">
                     github.com/NotANewt
                   </a>
                 </li>
                 <li>
-                  <strong>Phone:</strong> 630-728-2730
+                  <strong>Phone: </strong>630-728-2730
                 </li>
                 <li>
-                  <strong>Website:</strong>
+                  <strong>Website: </strong>
                   <a href="https://meegan-react-portfolio.herokuapp.com/" target="_blank" rel="noreferrer">
-                    notanewt.github.io/portfolio/
+                    herokuapp/portfolio/
                   </a>
                 </li>
                 <li>
-                  <strong>Mail:</strong>
+                  <strong>Mail: </strong>
                   <a href="mailto:meegan.r.anderson@gmail.com">meegan.r.anderson@gmail.com</a>
                 </li>
                 <li>
-                  <strong>LinkedIn:</strong>
+                  <strong>LinkedIn: </strong>
                   <a href="https://www.linkedin.com/in/meegan-r-anderson" target="_blank" rel="noreferrer">
                     @meegan-r-anderson
                   </a>
