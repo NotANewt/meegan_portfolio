@@ -18,11 +18,14 @@ function Skills() {
                   <li>IDL</li>
                   <li>RESTful API</li>
                   <li>Agile</li>
+                  <li>MongoDB</li>
                 </ul>
               </div>
               <div className="skill-group">
                 <h5>Frameworks</h5>
                 <ul>
+                  <li>React</li>
+                  <li>Next.js</li>
                   <li>Bootstrap</li>
                   <li>Bulma</li>
                   <li>jQuery</li>
@@ -40,6 +43,7 @@ function Skills() {
                   <li>Git</li>
                   <li>Jira</li>
                   <li>Trello</li>
+                  <li>Figma</li>
                   <li>MySQL Workbench</li>
                   <li>Studio 3T</li>
                   <li>GSuite</li>

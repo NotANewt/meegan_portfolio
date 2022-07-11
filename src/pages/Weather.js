@@ -24,13 +24,13 @@ function TechTalk(props) {
                   <ul className="project-links">
                     <li>
                       <strong>Link:</strong>
-                      <a href="https://notanewt.github.io/hw6_weather_dashboard/" target="_blank" rel="noreferrer">
+                      <a href="https://notanewt.github.io/weather_dashboard/" target="_blank" rel="noreferrer">
                         Weather Dashboard
                       </a>
                     </li>
                     <li>
                       <strong>Source:</strong>
-                      <a href="https://github.com/NotANewt/hw6_weather_dashboard" target="_blank" rel="noreferrer">
+                      <a href="https://github.com/NotANewt/weather_dashboard" target="_blank" rel="noreferrer">
                         github.com/NotANewt/
                       </a>
                     </li>
@@ -38,7 +38,7 @@ function TechTalk(props) {
                 </div>
 
                 <div className="col-md">
-                  <a href="https://github.com/NotANewt/hw6_weather_dashboard/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
+                  <a href="https://github.com/NotANewt/weather_dashboard/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
                     Download Project
                   </a>
                 </div>
