@@ -30,7 +30,7 @@ function Employee(props) {
                     </li>
                     <li>
                       <strong>Source:</strong>
-                      <a href="https://github.com/NotANewt/hw12_sql_employee_tracker" target="_blank" rel="noreferrer">
+                      <a href="https://github.com/NotANewt/sql_employee_tracker" target="_blank" rel="noreferrer">
                         github.com/NotANewt
                       </a>
                     </li>
@@ -38,7 +38,7 @@ function Employee(props) {
                 </div>
 
                 <div className="col-md">
-                  <a href="https://github.com/NotANewt/hw12_sql_employee_tracker/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
+                  <a href="https://github.com/NotANewt/sql_employee_tracker/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
                     Download Project
                   </a>
                 </div>
