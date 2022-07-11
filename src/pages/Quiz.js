@@ -24,13 +24,13 @@ function Quiz(props) {
                   <ul className="project-links">
                     <li>
                       <strong>Link:</strong>
-                      <a href="https://notanewt.github.io/hw4_code_quiz/" target="_blank" rel="noreferrer">
+                      <a href="https://notanewt.github.io/code_quiz/" target="_blank" rel="noreferrer">
                         Code Quiz
                       </a>
                     </li>
                     <li>
                       <strong>Source:</strong>
-                      <a href="https://github.com/NotANewt/hw4_code_quiz" target="_blank" rel="noreferrer">
+                      <a href="https://github.com/NotANewt/code_quiz" target="_blank" rel="noreferrer">
                         github.com/NotANewt
                       </a>
                     </li>
@@ -39,7 +39,7 @@ function Quiz(props) {
 
                 <div className="col-md">
                   {" "}
-                  <a href="https://github.com/NotANewt/hw4_code_quiz/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
+                  <a href="https://github.com/NotANewt/code_quiz/archive/refs/heads/main.zip" target="_blank" rel="noreferrer" className="btn btn-primary" tabIndex="-1" role="button">
                     Download Project
                   </a>
                 </div>
