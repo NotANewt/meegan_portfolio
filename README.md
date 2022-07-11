@@ -24,15 +24,15 @@ When a user opens the portfolio page, they are presented with a navigation bar w
 
 ### Screenshot of Portfolio's Home Page When Viewed On A Desktop
 
-!["Screenshot of portfolio's home page when viewed on a desktop, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./assets/img/portfolio_v3_desktop_ss.PNG)
+!["Screenshot of portfolio's home page when viewed on a desktop, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./src/assets/img/portfolio_v3_desktop_ss.PNG)
 
 ### Screenshot of Portfolio's Home Page When Viewed On Mobile
 
-!["Screenshot of portfolio's home page when viewed on mobile, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./assets/img/portfolio_v3_mobile_ss.png)
+!["Screenshot of portfolio's home page when viewed on mobile, including a red navigation bar at the top and a yellow biography section, including a headshot and contact links."](./src/assets/img/portfolio_v3_mobile_ss.png)
 
 ### Screenshot of Portfolio's Home Page
 
-!["Screenshot of portfolio's home page, zoomed out so the entire page can be seen. The image includes navigation bar at the top and a yellow biography section, including a headshot and contact links. Below is a green skills section that lists skills and education. Below that is a yellow Project Showcase section with white cards with icons for each of the projects. Further down is a red section with a button to download Meegan's resume. Next is a yellow Contact section with contact links. At the bottom is a blue footer section with contact links."](./assets/img/portfolio_v3_desktop_large_ss.png)
+!["Screenshot of portfolio's home page, zoomed out so the entire page can be seen. The image includes navigation bar at the top and a yellow biography section, including a headshot and contact links. Below is a green skills section that lists skills and education. Below that is a yellow Project Showcase section with white cards with icons for each of the projects. Further down is a red section with a button to download Meegan's resume. Next is a yellow Contact section with contact links. At the bottom is a blue footer section with contact links."](./src/assets/img/portfolio_v3_desktop_large_ss.png)
 
 ## License
 
