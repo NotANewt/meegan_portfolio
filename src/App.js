@@ -7,6 +7,7 @@ import Weather from "./pages/Weather";
 import Employee from "./pages/Employee";
 import Umbrella from "./pages/Umbrella";
 import Quiz from "./pages/Quiz";
+import PickAFlick from "./pages/PickAFlick";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
           <Route path="/Employee" element={<Employee />}></Route>
           <Route path="/Umbrella" element={<Umbrella />}></Route>
           <Route path="/Quiz" element={<Quiz />}></Route>
+          <Route path="/PickAFlick" element={<PickAFlick />}></Route>
         </Routes>
       </Layout>
     </Router>

@@ -17,6 +17,29 @@ function Showcase() {
           </div>
 
           <div className="project-gallery">
+            {/* Pick A Flick */}
+            <div className="project-item">
+              <div className="project-details">
+                <h3>Pick A Flick</h3>
+                <p>Choose a movie to watch with friends employing user input, anonymous veto, and a final random movie selection.</p>
+                <ul>
+                  <li>MEARN Stack</li>
+                  <li>JavaScript</li>
+                  <li>GraphQL</li>
+                  <li>HTML5</li>
+                  <li>CSS</li>
+                  <li>RESTful</li>
+                </ul>
+                <a className="btn btn-secondary" href="/PickAFlick">
+                  Project Details
+                </a>
+              </div>
+
+              <div className="project-screenshot">
+                <img src={weatherIcon} alt="icon of sun with a cloud underneath with text Weather API"></img>
+              </div>
+            </div>
+
             {/* Tech Talk */}
             <div className="project-item">
               <div className="project-details">
@@ -100,7 +123,7 @@ function Showcase() {
             </div>
 
             {/* Do You Need An Umbrella? */}
-            <div className="project-item">
+            {/* <div className="project-item">
               <div className="project-details">
                 <h3>Do You Need An Umbrella?</h3>
                 <p>A weather application that informs the user if they need an umbrella with text and a gif.</p>
@@ -117,7 +140,7 @@ function Showcase() {
               <div className="project-screenshot">
                 <img src={umbrellaIcon} alt="icon of Do You Need An Umbrella"></img>
               </div>
-            </div>
+            </div> */}
 
             {/* Code Quiz */}
             <div className="project-item">
