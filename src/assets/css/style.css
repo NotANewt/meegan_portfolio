@@ -243,6 +243,10 @@ p {
   margin-bottom: 10px;
 }
 
+.project-details p {
+  font-size: 14px;
+}
+
 .project-details ul {
   list-style: none;
   margin: 0;
@@ -251,6 +255,7 @@ p {
 
 .project-details li {
   display: inline-block;
+  font-size: 14px;
 }
 
 .project-details li + li:before {
@@ -370,14 +375,14 @@ p {
     margin: 4%;
   }
   .project-details h3 {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: bold;
-    line-height: 30px;
+    line-height: 20px;
     border-bottom: 1px solid white;
-    margin-bottom: 6px;
+    margin-bottom: 4px;
   }
   .project-details p {
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 8px;
   }
   .project-details ul {

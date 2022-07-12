@@ -21,7 +21,7 @@ function Showcase() {
             <div className="project-item">
               <div className="project-details">
                 <h3>Pick A Flick</h3>
-                <p>Choose a movie to watch with friends employing user input, anonymous veto, and a final random movie selection.</p>
+                <p>Choose a movie to watch with friends!</p>
                 <ul>
                   <li>MEARN Stack</li>
                   <li>JavaScript</li>
