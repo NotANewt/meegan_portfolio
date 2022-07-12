@@ -2,7 +2,7 @@ import techIcon from "../assets/img/icon-tech.png";
 import petIcon from "../assets/img/icon-pet.png";
 import weatherIcon from "../assets/img/icon-weather.png";
 import employeeIcon from "../assets/img/icon-employee.png";
-import umbrellaIcon from "../assets/img/icon-umbrella.png";
+// import umbrellaIcon from "../assets/img/icon-umbrella.png";
 import quizIcon from "../assets/img/icon-quiz.png";
 
 function Showcase() {
