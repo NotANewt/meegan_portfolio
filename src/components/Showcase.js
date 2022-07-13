@@ -36,7 +36,7 @@ function Showcase() {
               </div>
 
               <div className="project-screenshot">
-                <img src={weatherIcon} alt="icon of sun with a cloud underneath with text Weather API"></img>
+                <img src={quizIcon} alt="icon of sun with a cloud underneath with text Weather API"></img>
               </div>
             </div>
 
