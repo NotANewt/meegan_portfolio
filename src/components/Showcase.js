@@ -4,6 +4,7 @@ import weatherIcon from "../assets/img/icon-weather.png";
 import employeeIcon from "../assets/img/icon-employee.png";
 // import umbrellaIcon from "../assets/img/icon-umbrella.png";
 import quizIcon from "../assets/img/icon-quiz.png";
+import movieIcon from "../assets/img/icon-movie.jpeg";
 
 function Showcase() {
   return (
@@ -36,7 +37,7 @@ function Showcase() {
               </div>
 
               <div className="project-screenshot">
-                <img src={quizIcon} alt="icon of sun with a cloud underneath with text Weather API"></img>
+                <img src={movieIcon} alt="icon of sun with a cloud underneath with text Weather API"></img>
               </div>
             </div>
 
